@@ -2,10 +2,10 @@
 <manifest>
 
   <!-- Trees -->
-  <project path="kernel/motorola/msm8953" name="brunorolak/kernel_motorola_msm8953.git" remote="github" revision="11.0" />
-  <project path="device/motorola/ali" name="yuki-on/device_motorola_ali.git" remote="github" revision="11.0" />
-  <project path="device/motorola/msm8953-common" name="brunorolak/device_motorola_msm8953-common.git" remote="github" revision="11.0" />
-  <project path="vendor/motorola/msm8953-common" name="brunorolak/vendor_motorola_msm8953-common.git" remote="github" revision="11.0" />
-  <project path="vendor/motorola/ali" name="brunorolak/vendor_motorola_ali.git" remote="github" revision="11.0" />
+  <project path="kernel/motorola/sdm632" name="kaspesk/kernel_motorola_sdm632" remote="github" revision="11.0" />
+  <project path="device/motorola/channel" name="kaspesk/device_motorola_channel" remote="github" revision="11.0" />
+  <project path="device/motorola/sdm632-common" name="katakishi0/device_motorola_sdm632-common.git" remote="github" revision="lineage-18.1" />
+  <project path="vendor/motorola/sdm632-common" name="katakishi0/vendor_motorola_sdm632-common" remote="github" revision="11.0" />
+  <project path="vendor/motorola/channel" name="kaspesk/vendor_motorola_channel" remote="github" revision="11.0" />
 
 </manifest>
